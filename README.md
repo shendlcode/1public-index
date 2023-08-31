@@ -13,7 +13,7 @@ Public Index Project.I use this project to index 1index and other commonly used 
 # 开源项目
 
 ### quick-helper
-[gitTools](https://github.com/shendl1978/quick-helper)
+[quick-helper](https://github.com/shendl1978/quick-helper)
 
 quick-helper 项目。
 
