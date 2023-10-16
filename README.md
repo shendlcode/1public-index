@@ -8,6 +8,9 @@ Public Index Project.I use this project to index 1index and other commonly used 
 
 [3英语常用资料](https://github.com/shendl1978/1index/blob/main/%E8%8B%B1%E8%AF%AD%E5%B8%B8%E7%94%A8%E8%B5%84%E6%96%99.md)
 
+[7English_study](https://github.com/shendlcode/7English_study)
+
+
 
 
 # 开源项目
